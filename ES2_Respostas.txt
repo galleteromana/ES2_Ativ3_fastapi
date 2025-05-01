@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------------------
+# Análise de Evolução de Código com GitEvo
+
+## Repositório selecionado  
+https://github.com/tiangolo/fastapi
+
+## Gráfico selecionado  
+Lines of Code (LOC)
+
+## Explicação 
+O gráfico de evolućão de linhas de código do projeto FastAPI mostra um crescimento contínuo e acentuado entre os anos de 2020 e 2025. Em 2020, o repositório contava com cerca de 25.000 linhas, e esse número salta para mais de 113 mil em 2025. Esse comportamento indica que o projeto passou por um processo de desenvolvimento ativo e expansão funcional significativa ao longo dos anos. É possível observarmos um crescimento moderado nos primeiros anos, com notável aceleraćão partir de 2023, culminando em um grande aumento entre 2023 e 2024. Esse salto pode estar relacionado à adićão de novos módulos, funcionalidades ou reestruturaćões internas, e está de acordo com o momento em que o projeto se consolidou como uma das principais ferramentas para desenvolvimento de APIs assíncronas em Python. A partir de 2024, apesar do crescente número de linhas, a inclinaćão da curva diminuiu, o que sugere uma possível fase de estabilizaćão e manutenćão da base de código, o que é comum quando projetos atingem certo nível de maturidade. 
+
+O comportamento da curva está de acordo com boas práticas de evolućão de software em projetos bem-sucedidos de código aberto: crescimento constante, com períodos de maior desenvolvimento seguidos de estabilizaćão. A evolućão contínua sem quedas abruptas indica que o projeto tem sido mantido com regularidade, sem remoćões significativas de código ou reestruturaćões destrutivas. Em outros gráficos presentes no relatório, como o crescimento equilibrado entre arquivos de produćão e teste, e o uso crescente de recursos modernos do Python, reforćam a ideia de um projeto bem conduzido tecnicamente. Dessa forma, o gráfico de LOC não apenas mostra a evolućão quantitativa do projeto, mas também sugere um processo de desenvolvimento alinhado com práticas de engenharia de software robustas.
+
+## Arquivo de análise
+O arquivo `index.html` gerado pela ferramenta GitEvo foi incluído neste repositório para consulta dos gráficos completos.
+-----------------------------------------------------------------------------------------
